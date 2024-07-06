@@ -34,11 +34,12 @@ src="https://img.shields.io/github/followers/Jass2k23?logo=github&style=for-the-
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,react,firebase,mongodb,nextjs,mysql,nodejs,redux,aws" /><br>
 </div>
 
+<!--
 
 <h1 align="center">Socials</h1>
 <br/><br/>
 <p align="center">  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/ritiik_18/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ritik-kumar-9795a8227" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/23530936/ritik-kumar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@ritiik_18" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
-<!-- -->
+
 <br/><br/>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -74,3 +75,5 @@ src="https://img.shields.io/github/followers/Jass2k23?logo=github&style=for-the-
 <div width="100%" align="center"><a href="https://github.com/RITIKGITHUB18/hushh-recruitment" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RITIKGITHUB18&repo=hushh-recruitment&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=false&locale=en" /></a><a href="https://github.com/RITIKGITHUB18/Facial-Emotion-Recognition" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RITIKGITHUB18&repo=Facial-Emotion-Recognition&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=false&locale=en" /></a></div>
 
 <br /><br /><br /><br />
+
+-->
