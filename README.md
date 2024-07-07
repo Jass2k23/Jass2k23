@@ -23,7 +23,7 @@
 <p>* 🤝  I'm open to collaborating on Web-Dev Project, Eager to learn new Tech-Stack</p>
 <p>* 🤫 Secret Identity: Often working undercover, you may not see me, but my impact on the web is undeniable.</p>
 
-<a href="https://www.github.com/RITIKGITHUB18" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/Jass2k23" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Jass2k23?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 </div>
 
