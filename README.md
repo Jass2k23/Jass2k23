@@ -11,7 +11,8 @@
 
 <div align="left">
  <p>* 🌍  I'm based in Pune, India</p>
- <p>* 📄 Know about my experiences <a href="https://drive.google.com/file/d/1dQkDu8Eqcr1iH-Op_wb6Ffrnsnpf_SE1/view?usp=sharing">
+    <!-- Resume Link !-->
+ <p>* 📄 Know about my experiences <a href="">
   Resume
  </a></p>
  <p>* 📫Please feel free to contact <a href="mailto:jass2k23@gmail.com">
